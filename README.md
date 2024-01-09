@@ -1,4 +1,3 @@
-# Survival-Analytics-Showcase-A-Simulation-Study
 # Survival Analysis Simulation in R
 
 Survival analysis is a statistical technique widely used in medical research to analyze the time until an event of interest occurs. This event could be the occurrence of a disease recurrence, death, or any other outcome. In this R script, we perform a simulation of survival data to demonstrate the application of survival analysis techniques using the `survival`, `survminer`, and `gtsummary` packages.
